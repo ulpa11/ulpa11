@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ulpa11
-- 👀 I’m interested in python 
+- 👋 Hi, I’m Ashutosh Raghuwanshi student of Medi-Caps University
+- 👀 I’m interested in Python 
 - 🌱 I’m currently learning django 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Django Projects
 - 📫 How to reach me ashutoshraghuwanshi28@gmail.com
 
 <!---
