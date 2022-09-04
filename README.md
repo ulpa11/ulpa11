@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Ashutosh Raghuwanshi student of Medi-Caps University
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning django 
-- 💞️ I’m looking to collaborate on Django Projects
-- 📫 How to reach me ashutoshraghuwanshi28@gmail.com
+- 👋 Hi, I’m Ashutosh Raghuwanshi Project Engineer at Wipro.
+- 👀 I’m interested in Python and C programming 
+- 🌱 I’m currently learning embedded system programming and Django
+- 💞️ I’m looking to collaborate on Django Projects and Embedded projects
+- 📫 How to reach me ashutoshraghuwanshi28@gmail.com or 9407386981
+
 
 <!---
 ulpa11/ulpa11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
